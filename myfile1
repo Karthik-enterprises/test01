@@ -2,4 +2,10 @@
 
 --my second line of code
 this is to check 1
+<<<<<<< HEAD
 this is to check on merge 
+=======
+
+to check git merge
+
+>>>>>>> 49a2465c12fe537b524dd80c52ca58d63484e87a
